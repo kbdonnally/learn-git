@@ -1,0 +1,4 @@
+Yet another file
+Gotta make it worth it to use the * command thingie
+(Is it actually called a 'wildcard'?
+And is that just in git context or is it when it applies to HTML elements?)
